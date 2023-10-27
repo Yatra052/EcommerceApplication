@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1064598940002",
+    "project_id": "innoapp-1e70d",
+    "storage_bucket": "innoapp-1e70d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064598940002:android:808c0a51ba6f61ef7a243b",
+        "android_client_info": {
+          "package_name": "com.example.innoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoetQedx5W8TVp8pTc7sYvEWCPHIJAE3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
